@@ -1,0 +1,11 @@
+{
+  "app_name": "Ninja ModSkin",
+  "version": "1.0.0",
+  "auth_api_url": "https://YOUR-AUTH-SERVICE.example.com",
+  "payload_url": "https://github.com/YOUR-USERNAME/YOUR-REPOSITORY/releases/latest/download/modskin_payload.zip",
+  "payload_sha256": "",
+  "package_name": "com.tencent.ig",
+  "destination_dir": "/sdcard/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks",
+  "payload_filename": "game_patch_4.6.0.21552.pak",
+  "require_internet": true
+}
